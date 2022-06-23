@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Yash_devasp&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 Yash-devasp/Yash-devasp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
